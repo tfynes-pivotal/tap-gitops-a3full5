@@ -1,0 +1,7 @@
+accelerator-log.md
+/accelerator-assets/secrets-to-seal/**
+/key.txt
+unused/.image-copy.sh.swp
+vault-setup/vault.out
+accelerator-assets/.DS_Store
+.DS_Store
